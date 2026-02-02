@@ -37,6 +37,6 @@ Some ways to improve the funnel could be:
 -Providing tips or guidance to make profile completion easier
 
 All analysis was done in SQL Server using a table of user events.
-The Full query I used is saved in Funnel_anlysis.sql and calculates both total users at each step and conversion percentage.
+The Full query I used is saved in [Funnel_anlysis.sql](https://github.com/angelatsamago20-cloud/sql-funnel-analysis/blob/main/Funnel_anlysis.sql) and calculates both total users at each step and conversion percentage.
 
 
