@@ -37,10 +37,12 @@ The biggest drop-off happens at the profile completion stage, which might be due
 
 -Providing tips or guidance to make profile completion easier
 
+
+# FUNNEL VISUALISATION
+This chart shows the number of users at each step of the funnel, visually highlighting the major drop-off at profile completion.
+FUNNEL CHART.png
+https://github.com/angelatsamago20-cloud/sql-funnel-analysis/blob/main/FUNNEL%20CHART%20.png  
+
 All analysis was done in SQL Server using a table of user events.
 The Full query I used is saved in [Funnel_anlysis.sql](https://github.com/angelatsamago20-cloud/sql-funnel-analysis/blob/main/Funnel_anlysis.sql) and calculates both total users at each step and conversion percentage.
-
-FUNNEL VISUALISATION
-FUNNEL CHART .png https://github.com/angelatsamago20-cloud/sql-funnel-analysis/blob/main/FUNNEL%20CHART%20.png  
-
 
