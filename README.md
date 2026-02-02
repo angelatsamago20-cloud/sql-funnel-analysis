@@ -41,6 +41,6 @@ All analysis was done in SQL Server using a table of user events.
 The Full query I used is saved in [Funnel_anlysis.sql](https://github.com/angelatsamago20-cloud/sql-funnel-analysis/blob/main/Funnel_anlysis.sql) and calculates both total users at each step and conversion percentage.
 
 FUNNEL VISUALISATION
-FUNNEL CHART .png 
+FUNNEL CHART .png https://github.com/angelatsamago20-cloud/sql-funnel-analysis/blob/main/FUNNEL%20CHART%20.png  
 
 
