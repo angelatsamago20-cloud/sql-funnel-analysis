@@ -1,8 +1,9 @@
-Funnel Analysis Project
+# Funnel Analysis Project
+SQL-based analysis tracking user conversions through a job application funnel.
 
 I created a simple funnel analysis to track how users move through a job application process. The goal was to see where people drop off and suggest ways to improve the overall conversion. I used Excel to generate sample user event data and loaded it into SQL Server for analysis.
 
-Funnel Steps
+# Funnel Steps
 
 -Users visit the website
 
@@ -12,7 +13,7 @@ Funnel Steps
 
 -Users submit a job application
 
-What I found based on the data
+# What I found based on the data
 -From visits to signups, 75% of users signed up, and most visitors registered successfully.
 
 -From the Signup to profile completion, only 33% completed their profile. This shows the biggest drop-off.
@@ -21,7 +22,7 @@ What I found based on the data
 
 This data shows that the profile completion step is the mainhurdle in the funnel.
 
-My Insight
+# My Insight
 
 The biggest drop-off happens at the profile completion stage, which might be due to:
 
@@ -29,7 +30,7 @@ The biggest drop-off happens at the profile completion stage, which might be due
 
 -Users are unsure what information is required
 
-Some ways to improve the funnel could be:
+# Some ways to improve the funnel could be:
 -Simplifying the profile completions form
 
 -Adding a progress indicator to show how close users are to finishing
